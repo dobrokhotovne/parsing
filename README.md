@@ -1,4 +1,4 @@
-# parsing
+# PARSING COURSE PROJECT
 Описание проекта:
 
 Программа по сбору данных с сайта kinometro.ru за период, заданный пользователем.
@@ -8,9 +8,12 @@
 
 Для запуска проекта необходимо установить следующие модули Python:
 
-# scrapy - сам парсер
+# Необходимые модули:
+scrapy - сам парсер
 pip install scrapy
-# pymongo - для работы с базой данных MongoDB
+
+pymongo - для работы с базой данных MongoDB
 pip install pymongo
-# pillow - для скачивания изображений
+
+pillow - для скачивания изображений
 pip install pillow
