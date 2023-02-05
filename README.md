@@ -14,10 +14,10 @@
 
 # Необходимые модули:
 scrapy - сам парсер
-pip install scrapy
+(pip install scrapy)
 
-pymongo - для работы с базой данных MongoDB
-pip install pymongo
+pymongo - необходим для работы с базой данных MongoDB
+(pip install pymongo)
 
-pillow - для скачивания изображений
-pip install pillow
+pillow - обязателен для скачивания изображений
+(pip install pillow)
